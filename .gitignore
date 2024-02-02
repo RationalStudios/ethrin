@@ -1,0 +1,4 @@
+
+output/i686-pc-none-elf-ethrin.iso
+output/i686-pc-none-elf/isodir/boot/ethrin.bin
+output/i686-pc-none-elf/isodir/boot/grub/grub.cfg
