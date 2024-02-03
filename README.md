@@ -1,7 +1,7 @@
 # ethrin![Ethrin Logo](https://rationalstudios.github.io/EthrinLogo.png "Ethrin Logo")
 
 
-ethrin is an operating system built for interfacing with electronics hardware with ease. We have plans of developing an ARM port of the Operating System in the future.
+ethrin is an x86_64 operating system built for interfacing with electronics hardware with ease. We have plans of developing an ARM port of the Operating System in the future.
 
 ---
 
