@@ -5,7 +5,9 @@ ethrin is an operating system built for interfacing with electronics hardware wi
 
 ---
 
-Dependencies: `mtools, xorriso, clang, nasm, grub`Build: `chmod a+x ./build.sh` & `./build.sh`
+Dependencies: `mtools, xorriso, clang, nasm, grub`
+Build: `chmod a+x ./build.sh` & `./build.sh`
+Qemu: `chmod a+x ./qemu.sh'` & `./qemu.sh`
 
 ---
 
