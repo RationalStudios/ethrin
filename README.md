@@ -1,4 +1,4 @@
-![Ethrin Logo](https://rationalstudios.github.io/EthrinLogo.png "Ethrin Logo")
+![Ethrin Logo](https://www.rationalstudios.org/EthrinLogo.png "Ethrin Logo")
 
 # ethrin
 
