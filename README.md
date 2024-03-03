@@ -1,4 +1,4 @@
-![Ethrin Logo](https://www.rationalstudios.org/EthrinLogo.png "Ethrin Logo")
+![Ethrin Logo](https://www.rationalstudios.org/ethrin/images/EthrinLogo.png "Ethrin Logo")
 
 # ethrin
 
@@ -14,5 +14,3 @@ Qemu: `chmod a+x ./qemu.sh'` & `./qemu.sh`
 ---
 
 To those who want to fork this Operating System you must adhere to our Rational Studios Open Source License which is included in the files of this git repository, please read it. Ignoring our license will result in legal conflict. We at Rational Studios are currently obtaining a trademark for this software.
-
-If you do not want to join Rational Studios but are still interested in contributing, you may do so as you please but if you want to suggest something to the current developers you may contact us on our **[Discord Server](https://discord.gg/yw5PAaY8Pn "Discord Server")**.
